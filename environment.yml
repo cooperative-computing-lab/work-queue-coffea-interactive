@@ -1,0 +1,13 @@
+name: coffea-env
+channels:
+  - defaults
+dependencies:
+  - python=3.8.3
+  - ndcctools
+  - six
+  - dill
+  - xrootd
+  - conda-pack
+  - coffea
+  - uproot
+prefix: /afs/crc.nd.edu/user/r/rwiggles/anaconda3/envs/coffea-env
