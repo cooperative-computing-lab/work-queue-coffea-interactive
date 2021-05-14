@@ -1,5 +1,7 @@
 # work-queue-coffea-interactive
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cooperative-computing-lab/work-queue-coffea-interactive/HEAD)
+
 This is a summary of work completed vs work needed to be done as well as what has been tried.
 
 # What works
